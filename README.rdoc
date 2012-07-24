@@ -1,0 +1,7 @@
+For simple-navigation gem
+
+https://github.com/andi/simple-navigation/wiki
+
+For Styles we are using 
+
+http://www.dynamicdrive.com/dynamicindex1/ddsmoothmenu.htm#
