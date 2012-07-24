@@ -4,8 +4,13 @@
 #   Ensure the SQLite 3 gem is defined in your Gemfile
 #   gem 'sqlite3'
 development:
-  adapter: sqlite3
-  database: db/development.sqlite3
+  adapter: mysql
+  encoding: utf8
+  database: task1
+  username: root
+  password: tiger
+  host: localhost
+  port: 3306
   pool: 5
   timeout: 5000
 
